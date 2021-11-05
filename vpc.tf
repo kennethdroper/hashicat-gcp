@@ -1,4 +1,4 @@
-subnet = [
+subnets = [
   {
     subnet_name	= "kenneth-subnet"
     subnet_ip	= "10.100.10.0/24"
